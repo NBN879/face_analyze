@@ -59,7 +59,7 @@ def face_analyze(img_path):
 def main():
     # print(face_verify(img_1='faces/dr_5.jpg', img_2='faces/dr_2.jpg'))
     # print(face_recogn(img_path='faces/50-cent.jpg', db_path='Julia'))
-    print(face_analyze(img_path='faces/50-cent.jpg'))
+    print(face_analyze(img_path='faces/jim.jpg'))
 
 
 if __name__ == "__main__":
